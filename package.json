@@ -1,6 +1,6 @@
 {
     "name": "listmonk-sdk",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "A lightweight, type-safe TypeScript SDK for Listmonk with a clean Resend-like API",
     "type": "module",
     "main": "./dist/index.cjs",
